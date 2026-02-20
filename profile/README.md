@@ -22,10 +22,14 @@ Maintainer: NullCode1337
 ## Broken
 - ❗ WiFi
   - ❗ Hotspot
+- ❗ VOLTE
 - ❗ NFC
 - ❗ Sound Settings Force Close
+  - Volume adjustment
 - ❗ Fuelguage (temp and voltages too)
 - ❗ Double tap to wake
 - ❗ SELinux Permissive
-- ❗ A little weird display flicker in dark backgrounds
+- ❗ Display flicker when auto changing refresh rate
+
+
 More untested (let me know!)
