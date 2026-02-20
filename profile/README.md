@@ -8,6 +8,9 @@ Maintainer: NullCode1337
 - ✅ RIL
 - ✅ Bluetooth
 - ✅ Bluetooth Audio
+- ✅ Speaker Audio
+- ✅ In-Call Audio
+- ✅ Microphone
 - ✅ Cameras (all of them)
 - ✅ Auto Brightness
 - ✅ Sensors
@@ -20,12 +23,9 @@ Maintainer: NullCode1337
 - ❗ WiFi
   - ❗ Hotspot
 - ❗ NFC
-- ❗ Speaker Audio
-  - ❗ As such, call audio also broken
-  - ❗ Sound Settings Force Close
+- ❗ Sound Settings Force Close
 - ❗ Fuelguage (temp and voltages too)
 - ❗ Double tap to wake
 - ❗ SELinux Permissive
 - ❗ A little weird display flicker in dark backgrounds
-
 More untested (let me know!)
