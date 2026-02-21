@@ -24,8 +24,6 @@ Maintainer: NullCode1337
   - ❗ Hotspot
 - ❗ VOLTE
 - ❗ NFC
-- ❗ Sound Settings Force Close
-  - Volume adjustment
 - ❗ Fuelguage (temp and voltages too)
 - ❗ Double tap to wake
 - ❗ SELinux Permissive
