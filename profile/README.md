@@ -5,6 +5,7 @@ Maintainer: NullCode1337
 ## Working
 - ✅ Touch
 - ✅ 165hz
+- ✅ Wifi + Hotspot
 - ✅ RIL
 - ✅ Bluetooth
 - ✅ Bluetooth Audio
@@ -20,9 +21,7 @@ Maintainer: NullCode1337
 - ✅ Encryption
 
 ## Broken
-- ❗ WiFi
-  - ❗ Hotspot
-- ❗ VOLTE
+- ❗ VoLTE
 - ❗ NFC
 - ❗ Fuelguage (temp and voltages too)
 - ❗ Double tap to wake
