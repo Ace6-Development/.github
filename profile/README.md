@@ -25,6 +25,7 @@ Maintainer: NullCode1337
 - ❗ NFC
 - ❗ Fuelguage (temp and voltages too)
 - ❗ Double tap to wake
+- ❗ Action Button (no source support)
 - ❗ SELinux Permissive
 - ❗ Display flicker when auto changing refresh rate
 
