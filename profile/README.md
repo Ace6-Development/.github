@@ -18,7 +18,7 @@ Maintainer: NullCode1337
 - ✅ Sensors
 - ✅ Vibration
 - ✅ Flashlight
-- ✅ Plus Key (use [Button Mapper](https://play.google.com/store/apps/details?id=flar2.homebutton&hl=en) to customize)
+- ✅ Plus Key (use [this](https://play.google.com/store/apps/details?id=flar2.homebutton&hl=en) to customize)
 - ✅ UDFPS
 - ✅ Encryption
 
