@@ -18,6 +18,7 @@ Maintainer: NullCode1337
 - ✅ Sensors
 - ✅ Vibration
 - ✅ Flashlight
+- ✅ Plus Key (use [Button Mapper](https://play.google.com/store/apps/details?id=flar2.homebutton&hl=en) to customize)
 - ✅ UDFPS
 - ✅ Encryption
 
@@ -25,7 +26,6 @@ Maintainer: NullCode1337
 - ❗ VoLTE
 - ❗ NFC
 - ❗ Double tap to wake
-- ❗ Action Button (no source support)
 - ❗ SELinux Permissive
 - ❗ Display flicker when auto changing refresh rate
 
