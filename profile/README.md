@@ -7,6 +7,7 @@ Maintainer: NullCode1337
 - ✅ 165hz
 - ✅ Wifi + Hotspot
 - ✅ RIL
+- ✅ Battery (Fuelgauge)
 - ✅ Bluetooth
 - ✅ Bluetooth Audio
 - ✅ Speaker Audio
@@ -23,7 +24,6 @@ Maintainer: NullCode1337
 ## Broken
 - ❗ VoLTE
 - ❗ NFC
-- ❗ Fuelguage (temp and voltages too)
 - ❗ Double tap to wake
 - ❗ Action Button (no source support)
 - ❗ SELinux Permissive
