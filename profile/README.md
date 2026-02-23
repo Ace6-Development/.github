@@ -16,6 +16,7 @@ Maintainer: @NullCode1337
 - ✅ Cameras (all of them)
 - ✅ Auto Brightness
 - ✅ Sensors
+- ✅ IR Blaster
 - ✅ Vibration
 - ✅ Flashlight
 - ✅ UDFPS
