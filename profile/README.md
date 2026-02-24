@@ -7,6 +7,7 @@ Maintainer: @NullCode1337
 - ✅ 165hz
 - ✅ Wifi + Hotspot
 - ✅ RIL
+- ✅ IMS (VoLTE)
 - ✅ Battery (Fuelgauge)
 - ✅ Bluetooth
 - ✅ Bluetooth Audio
@@ -25,7 +26,6 @@ Maintainer: @NullCode1337
 - ✅ Refresh rate switching (@chandu078)
 
 ## Broken
-- ❗ VoLTE
 - ❗ NFC
 - ❗ Double tap to wake
 - ❗ SELinux Permissive
