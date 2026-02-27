@@ -22,7 +22,7 @@ Maintainer: @NullCode1337
 - ✅ Flashlight
 - ✅ UDFPS
 - ✅ Encryption
-- ✅ Plus Key (use [this](https://play.google.com/store/apps/details?id=flar2.homebutton&hl=en) to customize)
+- ✅ Plus Key (use [this](https://f-droid.org/en/packages/io.github.sds100.keymapper/) to customize)
 - ✅ Refresh rate switching (@chandu078)
 
 ## Broken
