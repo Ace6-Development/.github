@@ -26,7 +26,6 @@ Maintainer: @NullCode1337
 - ✅ Refresh rate switching (@chandu078)
 
 ## Broken
-- ❗ NFC
 - ❗ Double tap to wake
 - ❗ SELinux Permissive
 
