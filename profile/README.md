@@ -8,6 +8,7 @@ Maintainer: @NullCode1337
 - ✅ Wifi + Hotspot
 - ✅ RIL
 - ✅ IMS (VoLTE)
+- ✅ NFC
 - ✅ Battery (Fuelgauge)
 - ✅ Bluetooth
 - ✅ Bluetooth Audio
