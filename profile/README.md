@@ -8,7 +8,6 @@ Maintainer: @NullCode1337
 - ✅ Wifi + Hotspot
 - ✅ RIL
 - ✅ IMS (VoLTE)
-- ✅ NFC
 - ✅ Battery (Fuelgauge)
 - ✅ Bluetooth
 - ✅ Bluetooth Audio
@@ -22,13 +21,14 @@ Maintainer: @NullCode1337
 - ✅ Vibration
 - ✅ Flashlight
 - ✅ UDFPS
+- ✅ SELinux Enforcing
 - ✅ Encryption
 - ✅ Plus Key (use [this](https://f-droid.org/en/packages/io.github.sds100.keymapper/) to customize)
 - ✅ Refresh rate switching (@chandu078)
 
 ## Broken
 - ❗ Double tap to wake
-- ❗ SELinux Permissive
+- ❗ NFC
 
 
 More untested (let me know!)
