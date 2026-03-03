@@ -3,7 +3,7 @@
 Maintainer: @NullCode1337
 
 ## Working
-- ✅ Touch
+- ✅ NFC
 - ✅ 165hz
 - ✅ Wifi + Hotspot
 - ✅ RIL
@@ -28,7 +28,7 @@ Maintainer: @NullCode1337
 
 ## Broken
 - ❗ Double tap to wake
-- ❗ NFC
+- ❗ Touch on Enforcing
 
 
 More untested (let me know!)
