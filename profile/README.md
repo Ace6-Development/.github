@@ -3,6 +3,8 @@
 Maintainer: @NullCode1337
 
 ## Working
+- ✅ Booting
+- ✅ Touch
 - ✅ NFC
 - ✅ 165hz
 - ✅ Wifi + Hotspot
@@ -28,7 +30,6 @@ Maintainer: @NullCode1337
 
 ## Broken
 - ❗ Double tap to wake
-- ❗ Touch on Enforcing
 
 
 More untested (let me know!)
