@@ -1,5 +1,9 @@
 # LineageOS For OnePlus Ace 6 (ktm)
-<p align="center"><img width="400" height="800" alt="image" src="https://github.com/user-attachments/assets/848a32fa-b6ab-4c32-8d7b-73b32fc57833" /></p>
+<p align="center">
+  <img width="400" height="800" alt="lineage" src="https://github.com/user-attachments/assets/7eedc079-0953-47ee-a018-f59d4d536f46" />
+  <img width="400" height="800" alt="infinity" src="https://github.com/user-attachments/assets/d09860f0-39bb-4a88-8acb-6ed0fdf3b1b0" />
+</p>
+
 Maintainer: @NullCode1337
 
 ## Working
@@ -19,13 +23,13 @@ Maintainer: @NullCode1337
 - ✅ Cameras (all of them)
 - ✅ Auto Brightness
 - ✅ Sensors
+- ✅ Plus Key (use [this](https://f-droid.org/en/packages/io.github.sds100.keymapper/) to customize)
 - ✅ IR Blaster
 - ✅ Vibration
 - ✅ Flashlight
 - ✅ UDFPS
 - ✅ SELinux Enforcing
 - ✅ Encryption
-- ✅ Plus Key (use [this](https://f-droid.org/en/packages/io.github.sds100.keymapper/) to customize)
 - ✅ Refresh rate switching (@chandu078)
 
 ## Broken
