@@ -1,10 +1,9 @@
-# LineageOS For OnePlus Ace 6 (ktm)
-<p align="center">
-  <img width="400" height="800" alt="lineage" src="https://github.com/user-attachments/assets/7eedc079-0953-47ee-a018-f59d4d536f46" />
-  <img width="400" height="800" alt="infinity" src="https://github.com/user-attachments/assets/d09860f0-39bb-4a88-8acb-6ed0fdf3b1b0" />
-</p>
+# Custom ROM Development For OnePlus Ace 6 (ktm)
 
-Maintainer: @NullCode1337
+- LineageOS
+- InfinityX
+
+Maintainer: [@NullCode1337](https://github.com/NullCode1337)
 
 ## Working
 - ✅ Booting
@@ -33,6 +32,7 @@ Maintainer: @NullCode1337
 - ✅ Refresh rate switching (@chandu078)
 
 ## Broken
+- ❗ 120 FPS video recording
 - ❗ Double tap to wake
 
 
