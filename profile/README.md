@@ -22,7 +22,7 @@ Maintainer: [@NullCode1337](https://github.com/NullCode1337)
 - ✅ Cameras (all of them)
 - ✅ Auto Brightness
 - ✅ Sensors
-- ✅ Plus Key (use [this](https://f-droid.org/en/packages/io.github.sds100.keymapper/) to customize)
+- ✅ Plus Key (can be customized natively in settings)
 - ✅ IR Blaster
 - ✅ Vibration
 - ✅ Flashlight
