@@ -30,7 +30,8 @@ Maintainer: [@NullCode1337](https://github.com/NullCode1337)
 - ✅ SELinux Enforcing
 - ✅ Encryption
 - ✅ Refresh rate switching (@chandu078)
-- ✅Double tap to wake
+- ✅ Double tap to wake
+- ✅ Screen off gestures
 
 ## Broken
 - Nothing
