@@ -30,10 +30,9 @@ Maintainer: [@NullCode1337](https://github.com/NullCode1337)
 - ✅ SELinux Enforcing
 - ✅ Encryption
 - ✅ Refresh rate switching (@chandu078)
+- ✅Double tap to wake
 
 ## Broken
-- ❗ 120 FPS video recording
-- ❗ Double tap to wake
-
+- Nothing
 
 More untested (let me know!)
